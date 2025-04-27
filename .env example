@@ -1,0 +1,10 @@
+# Lnkedin session cookies
+LINKEDIN_LI_AT=your_li_at_cookie_here
+LINKEDIN_JSESSIONID=your_jsessionid_cookie_here
+
+# Telegram Bot API
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+TELEGRAM_CHAT_ID=your_telegram_chat_id_here
+
+# OpenAI API Key
+OPENAI_API_KEY=your_openai_api_key_here
