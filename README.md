@@ -1,7 +1,3 @@
-Got you — here’s the **updated `README.md`** with **all** mentions of **LinkedIn** renamed to **Lnkedin** (like you asked):
-
----
-
 # Lnkedin Job Application Bot 🤖
 
 Automate job applications on Lnkedin with AI-powered responses and Telegram integration for dynamic answering.  
@@ -135,11 +131,3 @@ Pull requests are welcome. Open an issue first to discuss a new feature or fix!
 ## 🪪 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Would you also like me to:**  
-✅ Make you a matching `requirements.txt` based on the libraries you use?  
-✅ Create `.env.example` automatically too?  
-
-(Quick yes/no!) 🚀
