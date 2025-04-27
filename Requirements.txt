@@ -1,0 +1,8 @@
+undetected-chromedriver
+selenium
+selenium-stealth
+webdriver-manager
+fake-useragent
+python-dotenv
+openai
+requests
